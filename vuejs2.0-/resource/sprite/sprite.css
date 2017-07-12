@@ -1,0 +1,56 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.sell-iconadd_circle {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.sell-iconarrow_lift {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.sell-iconcheck_circle {
+  width: 32px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.sell-iconclose {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+.sell-iconfavorite {
+  width: 32px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.sell-iconkeyboard_arrow_right {
+  width: 32px;
+  height: 32px;
+  background-position: -240px 0;
+}
+.sell-iconremove_circle_outline {
+  width: 32px;
+  height: 32px;
+  background-position: -288px 0;
+}
+.sell-iconshopping_cart {
+  width: 32px;
+  height: 32px;
+  background-position: -336px 0;
+}
+.sell-iconthumb_down {
+  width: 32px;
+  height: 32px;
+  background-position: -384px 0;
+}
+.sell-iconthumb_up {
+  width: 32px;
+  height: 32px;
+  background-position: -432px 0;
+}
+
